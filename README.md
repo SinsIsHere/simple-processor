@@ -10,3 +10,5 @@ Addition or subtraction of signed numbers is performed by using the multiplexer 
 The main module file is **a_simple_processor.v**.
 
 The result of the simulation can be found in the image **simulation_1.png** or the file **Waveform.vwf**.
+
+(https://github.com/SinsIsHere/simple-processor/blob/5c60c0a7eed7bd715731366705f5c5a9053e2a17/simulation_1.png)
