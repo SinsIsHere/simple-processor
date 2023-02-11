@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/My_design/LAB_09/part_2/simulation/qsim
+vA_simple_processor_with_fucking_ROM_or_something
+Z1 !s110 1636268879
+!i10b 1
+!s100 OQdzIm0JLEDS4o?:mD`An1
+IjJil[1Wb]0>z=o5=n_ON00
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1636268879
+8A_simple_processor_with_fucking_ROM_or_something.vo
+FA_simple_processor_with_fucking_ROM_or_something.vo
+L0 32
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1636268879.000000
+!s107 A_simple_processor_with_fucking_ROM_or_something.vo|
+!s90 -work|work|A_simple_processor_with_fucking_ROM_or_something.vo|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a_simple_processor_with_fucking_@r@o@m_or_something
+vA_simple_processor_with_fucking_ROM_or_something_vlg_vec_tst
+R1
+!i10b 1
+!s100 :X=ZFbceGJz>:7`Bl]TS70
+Ijl3zbJDPgCCL=4643c<^G3
+R2
+R0
+w1636268878
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R5
+R6
+n@a_simple_processor_with_fucking_@r@o@m_or_something_vlg_vec_tst

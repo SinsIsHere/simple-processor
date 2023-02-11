@@ -1,0 +1,305 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Done",
+					"strict" : false
+				},
+				{
+					"name" : "Address[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Address[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Address[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Address[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Address[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Bus_Wire[8]",
+					"strict" : false
+				},
+				{
+					"name" : "Bus_Wire[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Bus_Wire[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Bus_Wire[5]",
+					"strict" : false
+				},
+				{
+					"name" : "Bus_Wire[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Bus_Wire[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Bus_Wire[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Bus_Wire[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Bus_Wire[0]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[8]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[7]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[6]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[5]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DIN[0]",
+					"strict" : false
+				},
+				{
+					"name" : "IR[8]",
+					"strict" : false
+				},
+				{
+					"name" : "IR[7]",
+					"strict" : false
+				},
+				{
+					"name" : "IR[6]",
+					"strict" : false
+				},
+				{
+					"name" : "IR[5]",
+					"strict" : false
+				},
+				{
+					"name" : "IR[4]",
+					"strict" : false
+				},
+				{
+					"name" : "IR[3]",
+					"strict" : false
+				},
+				{
+					"name" : "IR[2]",
+					"strict" : false
+				},
+				{
+					"name" : "IR[1]",
+					"strict" : false
+				},
+				{
+					"name" : "IR[0]",
+					"strict" : false
+				},
+				{
+					"name" : "R0[8]",
+					"strict" : false
+				},
+				{
+					"name" : "R0[7]",
+					"strict" : false
+				},
+				{
+					"name" : "R0[6]",
+					"strict" : false
+				},
+				{
+					"name" : "R0[5]",
+					"strict" : false
+				},
+				{
+					"name" : "R0[4]",
+					"strict" : false
+				},
+				{
+					"name" : "R0[3]",
+					"strict" : false
+				},
+				{
+					"name" : "R0[2]",
+					"strict" : false
+				},
+				{
+					"name" : "R0[1]",
+					"strict" : false
+				},
+				{
+					"name" : "R0[0]",
+					"strict" : false
+				},
+				{
+					"name" : "R1[8]",
+					"strict" : false
+				},
+				{
+					"name" : "R1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "R1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "R1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "R1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "R1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "R1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "R1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "R1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RA[8]",
+					"strict" : false
+				},
+				{
+					"name" : "RA[7]",
+					"strict" : false
+				},
+				{
+					"name" : "RA[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RA[5]",
+					"strict" : false
+				},
+				{
+					"name" : "RA[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "RG[8]",
+					"strict" : false
+				},
+				{
+					"name" : "RG[7]",
+					"strict" : false
+				},
+				{
+					"name" : "RG[6]",
+					"strict" : false
+				},
+				{
+					"name" : "RG[5]",
+					"strict" : false
+				},
+				{
+					"name" : "RG[4]",
+					"strict" : false
+				},
+				{
+					"name" : "RG[3]",
+					"strict" : false
+				},
+				{
+					"name" : "RG[2]",
+					"strict" : false
+				},
+				{
+					"name" : "RG[1]",
+					"strict" : false
+				},
+				{
+					"name" : "RG[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Ystep_Q[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Ystep_Q[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Pro_Clock",
+					"strict" : false
+				},
+				{
+					"name" : "Run",
+					"strict" : false
+				},
+				{
+					"name" : "Mem_Clock",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
