@@ -7,4 +7,6 @@ The system can perform different operations in each clock cycle, as governed by 
 
 Addition or subtraction of signed numbers is performed by using the multiplexer to first place one 16-bit number onto the bus wires, and then loading this number into register A. Once this is done, a second 16-bit number is placed onto the bus, the adder/subtracter performs the required operation, and the result is loaded into register G. The data in G can then be transferred via the multiplexer to one of the other registers, as required.
 
-The result of the simulation can be found in the image simulation_1.png or the file Waveform.vwf.
+The main module file is **a_simple_processor.v**.
+
+The result of the simulation can be found in the image **simulation_1.png** or the file **Waveform.vwf**.
